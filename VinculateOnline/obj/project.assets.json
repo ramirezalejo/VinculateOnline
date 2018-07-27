@@ -11512,11 +11512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alramirez\\source\\repos\\VinculateOnline\\VinculateOnline\\VinculateOnline.csproj",
+      "projectUniqueName": "C:\\Users\\alramirez\\Documents\\GitHub\\VinculateOnline\\VinculateOnline\\VinculateOnline.csproj",
       "projectName": "VinculateOnline",
-      "projectPath": "C:\\Users\\alramirez\\source\\repos\\VinculateOnline\\VinculateOnline\\VinculateOnline.csproj",
+      "projectPath": "C:\\Users\\alramirez\\Documents\\GitHub\\VinculateOnline\\VinculateOnline\\VinculateOnline.csproj",
       "packagesPath": "C:\\Users\\alramirez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alramirez\\source\\repos\\VinculateOnline\\VinculateOnline\\obj\\",
+      "outputPath": "C:\\Users\\alramirez\\Documents\\GitHub\\VinculateOnline\\VinculateOnline\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
